@@ -1,0 +1,63 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "CIENCIA, TECNOLOGÍA, SOCIEDAD Y VALORES",
+    "tareas": [
+        {
+            "descripcion": "Después de leer la lectura de la actividad 4, contestar las siguientes preguntas, para finalizar realiza un mapa mental donde identifiques los tipos de conocimientos y características de la lectura.\nEntregar mas tardar el 1 Octubre.\nFavor de entregar en formato PDF.",
+            "fechaLimite": "01/10/2020",
+            "fechaPublicacion": "28-09-2020 00:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1317/show",
+            "tipo": "assignment",
+            "titulo": "Actividad 5"
+        },
+        {
+            "descripcion": "Lee detenidamente el siguiente texto y anota las palabras que no conozcas, con ellas haz un glosario.\nEntregar a mas tardar el 1 de Octubre.\nFavor de enviar su tarea en formato PDF.",
+            "fechaLimite": "01/10/2020",
+            "fechaPublicacion": "28-09-2020 00:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1316/show",
+            "tipo": "assignment",
+            "titulo": "Actividad 4"
+        },
+        {
+            "descripcion": "1. Etimología de la palabra ciencia. 2. Definición de ciencia. 3. Clasificación de la ciencia. Cada alumno me lo va a aplicar con un dibujo. Entrega el 25 de septiembre 2020. Envió material de apoyo.",
+            "fechaLimite": "25/09/2020",
+            "fechaPublicacion": "23-09-2020 18:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/892/show",
+            "tipo": "assignment",
+            "titulo": "Actividad 3. METODOS DE INVESTIGACION."
+        },
+        {
+            "descripcion": "Contesta según tus conocimientos. Esta actividad no tiene valor para efecto de calificación de la 1ra. unidad.",
+            "fechaLimite": "23/09/2020",
+            "fechaPublicacion": "22-09-2020 10:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/626/show",
+            "tipo": "assignment",
+            "titulo": "Actividad 2: Evaluación diagnostica ."
+        },
+        {
+            "descripcion": "Envío Encuadre de la Materia",
+            "fechaLimite": "22/09/2020",
+            "fechaPublicacion": "22-09-2020 09:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/602/show",
+            "tipo": "assignment",
+            "titulo": "Actividad 1"
+        },
+        {
+            "descripcion": "Les presento los temas y subtemas que se llevaran a cabo en este semestre, Septiembre 21al 18 de Diciembre del 2020,\nasí como criterio de evaluación. \nCualquier duda, favor de escribirlo en pestaña de novedades.",
+            "fechaLimite": "23/09/2020",
+            "fechaPublicacion": "21-09-2020 11:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/415/show",
+            "tipo": "assignment",
+            "titulo": "Encuadre"
+        }
+    ],
+    "update": false
+}

@@ -1,0 +1,63 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "FÍSICA II",
+    "tareas": [
+        {
+            "descripcion": "Por favor, lee con atención las instrucciones antes de iniciar.\n- Estudia y analiza el procedimiento de solución de los ejercicios resueltos (pag. 20-21), que se encuentran en tu CUADERNILLO DE FÍSICA II.\n- Para resolver los ejercicios, puedes imprimir el formato adjunto o transcribir los problemas en tu cuaderno.\n- Los ejercicios deben ser resueltos con lápiz, de forma ordenada, clara y legible, sin borrones ni tachones.\n- Guiarse por el instrumento de evaluación.\n- Ya resueltos, tomar evidencia fotográfica y pegar la imagen en una hoja Word.\n- Grabar el archivo en PDF, de la siguiente forma: Apellido paterno_Apellido materno_Primer nombre_Actividad 5.\n- Envía el archivo en tiempo y forma.",
+            "fechaLimite": "05/10/2020",
+            "fechaPublicacion": "01-10-2020 11:10",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1912/show",
+            "tipo": "assignment",
+            "titulo": "Actividad de aprendizaje 5. Ley de Hooke. Ejercicios."
+        },
+        {
+            "descripcion": "Por favor, lee con atención las instrucciones antes de iniciar.\n- Realiza la lectura de la Ley de Hooke, que se encuentra en tu CUADERNILLO DE FÍSICA II.\n- Contesta las preguntas sobre los conceptos básicos de la Ley de Hooke, de la página 21. Puedes transcribir las preguntas en tu cuaderno o contestarlas en el formato que adjunto. (Si lo haces en tu cuaderno, tomar foto, pegar la imagen en hoja word).\n- Graba el archivo en PDF, de la siguiente forma: Apellido paterno_Apellido materno_Primer nombre_Actividad 4.\n- Envía el archivo en tiempo y forma.",
+            "fechaLimite": "02/10/2020",
+            "fechaPublicacion": "01-10-2020 10:10",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1911/show",
+            "tipo": "assignment",
+            "titulo": "Actividad de aprendizaje 4. Ley de Hooke. Conceptos básicos."
+        },
+        {
+            "descripcion": "Por favor, lee con atención las instrucciones antes de iniciar.\n-\tElabora un mapa mental acerca de las propiedades de la materia que tienes en tu entorno, las contrastas con las investigadas en el CUADERNILLO DE FÍSICA II.\n-\tGuiarse por la  lista de cotejo.\n-\tGraba el archivo de la siguiente forma: Apellido paterno_Apellido materno_Primer nombre_Actividad 3.\n-\tEnvía el archivo en tiempo y forma.",
+            "fechaLimite": "30/09/2020",
+            "fechaPublicacion": "29-09-2020 07:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1600/show",
+            "tipo": "assignment",
+            "titulo": "Actividad de aprendizaje 3. Mapa mental de propiedades de la materia."
+        },
+        {
+            "descripcion": "",
+            "fechaLimite": "",
+            "fechaPublicacion": "24-09-2020 08:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/975/show",
+            "tipo": "assignment",
+            "titulo": "Cuadernillo de Actividades de Física II (Manual de Física II)"
+        },
+        {
+            "descripcion": "Por favor,  sigue las instrucciones:\n- imprime el examen.\n- Lee cuidadosamente y contesta los reactivos.\n- Tomar fotografía y pegarla en formato word.\n- Nombrar al archivo: V A-TMT_002_Primer apellido_Segundo apellido_Primer nombre\n- Realizar el envío con el archivo adjunto.",
+            "fechaLimite": "24/09/2020",
+            "fechaPublicacion": "22-09-2020 07:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/565/show",
+            "tipo": "assignment",
+            "titulo": "Examen diagnóstico"
+        },
+        {
+            "descripcion": "Por favor,  sigue las instrucciones:\n- Lee cuidadosamente.\n- Imprime la última hoja para que puedan firmarlo.\n- Tomar fotografía y pegarla en formato word.\n- Nombrar al archivo: V A-TMT_001_Primer apellido_Segundo apellido_Primer nombre\n- Realizar el envío con el archivo adjunto.",
+            "fechaLimite": "29/09/2020",
+            "fechaPublicacion": "22-09-2020 07:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/563/show",
+            "tipo": "assignment",
+            "titulo": "Presentación de la asignatura de Física II (encuadre)"
+        }
+    ],
+    "update": false
+}

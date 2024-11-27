@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "Planea Habilidad Verbal",
+    "tareas": [
+        {
+            "descripcion": "ACTIVIDAD.\n1. Piensa en dos ejemplos de comunicación en un contexto oral y otro en un contexto escrito.\n2. Posteriormente, realiza dos esquemas en donde escribas el papel de cada uno de los elementos de tus dos ejemplos.\nAl término de la sesión deberá enviar como evidencia de trabajo lo realizado durante la clase, la entrega final se deberá realizar a más tardar el día siguiente a las 19:00 horas.",
+            "fechaLimite": "05/10/2020",
+            "fechaPublicacion": "02-10-2020 11:10",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/2045/show",
+            "tipo": "assignment",
+            "titulo": "ESQUEMA ELEMENTOS DE LA COMUNICACIÓN"
+        }
+    ],
+    "update": false
+}

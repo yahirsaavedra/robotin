@@ -1,0 +1,39 @@
+{
+    "error": false,
+    "evento": "post",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "FÍSICA II",
+    "posts": [
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "1 Oct, 2020 8:34 am",
+            "texto": "Les informo que la clase del próximo jueves, será videollamada, es muy importante su presencia. Por favor, cuídense mucho. Saludos afectuosos."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "1 Oct, 2020 8:32 am",
+            "texto": "¡Buenos días Estimados Alumnos! Espero que se encuentren muy bien. El día de hoy le dejo unas actividades en las que veremos la ley del físico inglés Robert Hooke, llamada Ley de Hooke. En su cuadernillo de Física encontrarán la información para la realización de las actividades."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "28 Sep, 2020 7:30 am",
+            "texto": "¡Buenos días! Estimados alumnos, el día de hoy tenemos una actividad a realizar. Por favor lean muy bien las instrucciones y consulten la lista de cotejo. Saludos afectuosos."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "24 Sep, 2020 8:10 am",
+            "texto": "Les comparto el Manual de Física II, es importante que lo tengan impreso, pueden imprimirlo conforme lo vayamos necesitando. Si alguno de Ustedes no cuenta con los recursos para su impresión, les informo que en el plantel hay material impreso, solo tienen que comunicarse a la escuela para solicitarlo."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "24 Sep, 2020 8:02 am",
+            "texto": "¡Buenos días! Se que estuvieron teniendo problemas para subir sus tareas, la plataforma es nueva y han estado arreglando los detalles que se van presentando. Debido a este inconveniente, las tareas programadas para entregar esta semana, se las voy a aceptar fuera de fecha de entrega."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "21 Sep, 2020 7:15 am",
+            "texto": "Es un gusto saludarlos y darles la bienvenidos al periodo escolar: Sept. 20-Enero 21. Les comparto la presentación de la Asignatura y el examen diagnóstico."
+        }
+    ],
+    "update": false
+}

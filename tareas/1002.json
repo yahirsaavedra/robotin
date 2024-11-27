@@ -1,0 +1,27 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "ELABORA ELEMENTOS MECÁNICOS DE SISTEMAS MECATRÓNICOS",
+    "tareas": [
+        {
+            "descripcion": "Buen Día\nSiguiendo las Reglas de Netiqueta conteste las preguntas con respuesta de escrito libre, en contenido y extensión suficiente, evite respuestas simplistas o evasivas.\nAtentamente su Maestro de Clase, Ing. Luis Murillo Rios",
+            "fechaLimite": "2020-09-22",
+            "fechaPublicacion": "22-09-2020 09:09",
+            "horario": "11:00 a 1:00",
+            "link": "https://baja.siades.mx/online_exam/72/show",
+            "tipo": "exam",
+            "titulo": "DIagnóstico de Bases de Mecánica"
+        },
+        {
+            "descripcion": "Buen Día Estudiantes Estudien a detalle y comprendan las Reglas Básicas de Netiqueta. En la Sección de Novedades deben Presentarse de Acuerdo a Estas Reglas en el Horario de la Clase (Lunes 21 de Septiembre a las 7:00 a 9:00 a.m.), también es lo que se va a tomar en cuenta para su asistencia, si se pasan de éste día Lunes. no se les considerará asistencia. Su Maestro de Clase, Ing. Luis Murillo Rios.",
+            "fechaLimite": "21/09/2020",
+            "fechaPublicacion": "21-09-2020 07:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/338/show",
+            "tipo": "assignment",
+            "titulo": "Manejo de Reglas Básicas de Netiqueta"
+        }
+    ],
+    "update": false
+}

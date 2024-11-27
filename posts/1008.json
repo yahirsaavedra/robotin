@@ -1,0 +1,39 @@
+{
+    "error": false,
+    "evento": "post",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "PROGRAMA ROBOTS EN SISTEMAS MECATRÓNICOS",
+    "posts": [
+        {
+            "autor": "Murillo Rios Luis",
+            "fecha": "30 Sep, 2020 11:42 am",
+            "texto": "Buen Día, Se les dejó la actividad en Google Classroom, que consiste en la segunda práctica de Control de Motores en Robótica, para la clase de Programa Robots en Sistemas Mecatrónicos. Es una de varias en una secuencia de prácticas para tener un circuito de pruebas listo para aplicaciones de Robótica, que vamos a utilizar en la clase del Lunes. Saludos Su Maestro de Clase, Ing. Luis Murillo Rios"
+        },
+        {
+            "autor": "Murillo Rios Luis",
+            "fecha": "30 Sep, 2020 11:37 am",
+            "texto": "Buen Día, Pocos han armado su circuito, y ya deben programarlo, atiendan esto. Saludos Ing. Luis Murillo Rios."
+        },
+        {
+            "autor": "Murillo Rios Luis",
+            "fecha": "23 Sep, 2020 10:59 am",
+            "texto": "Buen Día, Para las actividades de aprendizaje de aplicaciones de robótica, vamos a utilizar arduinos y el raspberry pi, éste último con más énfasis, recuerden que lo consiguieron en equipo, además de algunos otros dispositivos de comunicación inalámbrica, que es como actualmente se coordinan las integraciones robóticas en sistemas mecatrónicos. También deben tener instalada en su PC y dispositivo móvil, de preferencia tablet (celular si no hay otro medio) el software realVNC, tanto como \"Server\" y como \"Viewer\". Todo esto ya lo manejamos someramente el semestre pasado, y ahora ya se va a utilizar a un nivel avanzado. Como actividad extra clase, deben reportar aquí en novedades, que aún tienen su arduino o que lo consiguieron (debe ser esta misma semana porque para la siguiente clase ya deben tener un circuito armado que se les va solicitar utilizar en la clase). Nota: Si no tienen PC, adquirir un raspberry pi 4 es una opción muy económica para reemplazarla en su utilización en este submódulo, a una fracción del costo de una PC. Espero que sea fácil su aprovisionamiento de los materiales necesarios, saludos cordiales, su Maestro de Clase, Ing. Luis Murillo Rios. Nota: Aquí en novedades menciones quienes son su equipo de trabajo de proyecto formativo, que va a ser el mismo para ambos submódulos y que van a utilizar su raspberry pi en su proyecto."
+        },
+        {
+            "autor": "Luna Camacho Kenneth Andree",
+            "fecha": "21 Sep, 2020 9:38 pm",
+            "texto": "Buenas noches Profesor, lo que yo entendí del funcionamiento de un robot dentro de un sistema mecatronico es que este realiza una acción que alguien haya manipulado, ya que integra una estructura mecánica, un sistema de mando y control y un sistema de comunicaciones. Gracias por su atención. Atte: Kenneth Andree Luna Camacho"
+        },
+        {
+            "autor": "Quiroz Perez Raul Uriel",
+            "fecha": "21 Sep, 2020 11:38 am",
+            "texto": "Buenas tardes me presento como Quiroz Perez Raul Uriel. En base a mis conocimientos y algo de investigación lo que comprendí es que un sistema mecatronico se encarga de las señales las cuales se envían al robot para que este realize y culmine la acción a realizar."
+        },
+        {
+            "autor": "Murillo Rios Luis",
+            "fecha": "21 Sep, 2020 10:38 am",
+            "texto": "Buen inicio de Semestre a Todos, Esta es la Primera Ocasión que nos Toca Trabajar Juntos en un Submódulo Profesional de Semestre Completo en Línea y sujeto a horarios de clase, Lo primero es establecer la dinámica de trabajo en Línea, para lo cual nos vamos a reforzar lo que se denomina \"Reglas de Netiqueta\", que son las maneras adecuadas de colaborar y comunicarse en Línea, atendiendo el respeto entre todos primero, y la dinámica de trabajo colaborativo eficaz como segunda cuestión importante. La ventaja es que ya lo hemos estado trabajando en la primera etapa de trabajo en Línea. Toda Actividad será indicada en los horarios del Submódulo, y tiene su parte a realizarse en el horario de clase y otra parte cuando sea requerido de manera extra clase con fechas específicas de entrega. Su asistencia va a ser contabilizada en acuerdo a que realicen la actividad especificada en el horario de la clase. Es importante cumplir cabalmente con las actividades y con los contenidos completos y adecuados, porque el producto resultante de sus actividades son la base de conocimiento e información que se utilizará en las subsiguientes actividades, entonces si es deficiente el producto de su actividad, se tendrá dificultad de llevar a buena realización las actividades siguientes que se basen en la misma. Como primera actividad se va a bordar el reforzamiento del manejo de las \"Reglas Básicas de Netiqueta\", revisen el campo de actividades que les aparezca al entrar en el horario de la clase y realízenla. Atentamente su Maestro de Clase, Ing. Luis Murillo Rios."
+        }
+    ],
+    "update": false
+}

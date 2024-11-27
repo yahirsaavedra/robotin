@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "PROGRAMA ROBOTS EN SISTEMAS MECATRÓNICOS",
+    "tareas": [
+        {
+            "descripcion": "Buen Día Estudiantes, repasen a detalle y comprendan las Reglas Básicas de Netiqueta. En la Sección de Novedades deben Presentarse de Acuerdo a Estas Reglas el Día de Hoy (Lunes 21 de septiembre) y agregar a su presentación un comentario sobre su comprensión de lo que hace un \"Robot\" dentro de un \"Sistema Mecatrónico\", también es lo que se va a tomar en cuenta para su asistencia, si se pasan de éste día Lunes. no se les considerará asistencia. Su Maestro de Clase, Ing. Luis Murillo Rios.",
+            "fechaLimite": "21/09/2020",
+            "fechaPublicacion": "21-09-2020 10:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/390/show",
+            "tipo": "assignment",
+            "titulo": "Reforzamiento de las Reglas Básicas de Netiqueta"
+        }
+    ],
+    "update": false
+}

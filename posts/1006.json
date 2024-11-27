@@ -1,0 +1,39 @@
+{
+    "error": false,
+    "evento": "post",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "FÍSICA II",
+    "posts": [
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "1 Oct, 2020 10:53 am",
+            "texto": "¡Buenos días Estimados Alumnos! Espero que se encuentren muy bien. El día de hoy le dejo unas actividades en las que veremos la ley del físico inglés Robert Hooke, llamada Ley de Hooke. En su cuadernillo de Física encontrarán la información para la realización de las actividades."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "30 Sep, 2020 8:08 am",
+            "texto": "¡Buenos días! Les recuerdo que el día de hoy, es la entrega de la actividad mas reciente. En la próxima clase continuaremos con actividades del Manual de Física II. Saludos afectuosos."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "29 Sep, 2020 7:26 am",
+            "texto": "¡Buenos días! Estimados alumnos, el día de hoy tenemos una actividad a realizar. Por favor lean muy bien las instrucciones y consulten la lista de cotejo. Saludos afectuosos."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "24 Sep, 2020 8:22 am",
+            "texto": "Les comparto el Manual de Física II, es importante que lo tengan impreso, pueden imprimirlo conforme lo vayamos necesitando. Si alguno de Ustedes no cuenta con los recursos para su impresión, les informo que en el plantel hay material impreso, solo tienen que comunicarse a la escuela para solicitarlo."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "24 Sep, 2020 8:21 am",
+            "texto": "¡Buenos días! Se que estuvieron teniendo problemas para subir sus tareas, la plataforma es nueva y han estado arreglando los detalles que se van presentando. Debido a este inconveniente, las tareas programadas para entregar esta semana, se las voy a aceptar fuera de fecha de entrega."
+        },
+        {
+            "autor": "Lopez Lopez Saida Anavey",
+            "fecha": "22 Sep, 2020 7:22 am",
+            "texto": "Es un gusto saludarlos y darles la bienvenida a la asignatura de Física II. Esta plataforma será el medio por el cual estaremos trabajando, en caso de que tengamos que trabajar de otra manera, se los informaré una clase antes. En la pestaña de trabajo en clase les comparto, la presentación de la asignatura de Física II y, para recuperar conocimientos previos, el examen diagnóstico. Saludos afectuosos."
+        }
+    ],
+    "update": false
+}

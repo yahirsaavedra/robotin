@@ -1,0 +1,27 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "CÁLCULO INTEGRAL",
+    "tareas": [
+        {
+            "descripcion": "Subir su evidencia de la actividad 2",
+            "fechaLimite": "",
+            "fechaPublicacion": "28-09-2020 09:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1347/show",
+            "tipo": "assignment",
+            "titulo": "Actividad 2 – Derivada de una función"
+        },
+        {
+            "descripcion": "Buen día\nAquí adjunten sus archivos PDF con los procedimientos, la fecha limite para subirlos es el 26 de septiembre a las 11:59 pm",
+            "fechaLimite": "",
+            "fechaPublicacion": "22-09-2020 09:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/596/show",
+            "tipo": "assignment",
+            "titulo": "Actividad 1 - Simplificación de radicales"
+        }
+    ],
+    "update": false
+}

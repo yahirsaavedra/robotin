@@ -1,0 +1,19 @@
+{
+    "error": false,
+    "evento": "post",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "Tutor",
+    "posts": [
+        {
+            "autor": "Sanchez Melchor Marva",
+            "fecha": "28 Sep, 2020 1:03 pm",
+            "texto": "hola chicos Bienvenidos a este nuevo semestre. Mañana tendremos una videollamada a la hora del tutor (1:00 p.m.) será a través de google meet ,les pido por favor que todos se conecten, el enlace es: meet.google.com/jmy-ycdd-pwh por favor sean puntuales. Les mando saludos"
+        },
+        {
+            "autor": "Sanchez Melchor Marva",
+            "fecha": "28 Sep, 2020 1:03 pm",
+            "texto": "hola chicos Bienvenidos a este nuevo semestre. Mañana tendremos una videollamada a la hora del tutor (1:00 p.m.) será a través de google meet ,les pido por favor que todos se conecten, el enlace es: meet.google.com/jmy-ycdd-pwh por favor sean puntuales. Les mando saludos"
+        }
+    ],
+    "update": false
+}

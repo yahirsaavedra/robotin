@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "Tutor",
+    "tareas": [
+        {
+            "descripcion": "Mirar el vi'deo asignado y hacer una li'nea de vida, adema's hacer una reflexio'n sobre 3 momentos que han dejado huella en su personalidad.",
+            "fechaLimite": "05/10/2020",
+            "fechaPublicacion": "02-10-2020 15:10",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/2068/show",
+            "tipo": "assignment",
+            "titulo": "Actividad de tutorias \"semana 1_Li'nea de vida\""
+        }
+    ],
+    "update": false
+}

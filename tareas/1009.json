@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "INGLÉS V",
+    "tareas": [
+        {
+            "descripcion": "A completar las siguientes preguntas que vimos antes en clase de la actividad 1.",
+            "fechaLimite": "29/09/2020",
+            "fechaPublicacion": "22-09-2020 12:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/664/show",
+            "tipo": "assignment",
+            "titulo": "Encuadre de Clase (Framework) y Actividad 1"
+        }
+    ],
+    "update": false
+}

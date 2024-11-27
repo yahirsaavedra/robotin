@@ -1,0 +1,54 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "CIENCIA, TECNOLOGÍA, SOCIEDAD Y VALORES",
+    "tareas": [
+        {
+            "descripcion": "Buen día muchachos, de acuerdo a la clase del día de hoy, queda de tarea realizar el ejercicio de la pagina 19, recuerden puede ser a mano (letra legible)  o en computadora, favor de enviarlo en formato pdf o jpg. \nLa actividad se recibe a partir del día de hoy 2 de octubre y vence el día domingo 4  de octubre a las 8:00 pm \nsaludos",
+            "fechaLimite": "04/10/2020",
+            "fechaPublicacion": "02-10-2020 09:10",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/2032/show",
+            "tipo": "assignment",
+            "titulo": "Tema: Metodología"
+        },
+        {
+            "descripcion": "Buen día, les comparto el material de apoyo para la clase de mañana , como actividad previa solo hay que leer la lectura, saludos .",
+            "fechaLimite": "30/09/2020",
+            "fechaPublicacion": "29-09-2020 12:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1635/show",
+            "tipo": "assignment",
+            "titulo": "Tema: Conocimiento Científico"
+        },
+        {
+            "descripcion": "Buenos días muchachos las actividades diseñadas para el día de hoy son tres:\nActividad 1.  Leer el material adjunto, identificar los conceptos claves  y anotarlos en su cuaderno.    \nActividad 2.  Una vez concluida la actividad 1, realizara un mapa mental (si no recuerdan como se realiza un mapa mental,  les comento, la idea central se sitúa al centro y alrededor se colocan imágenes o palabras claves, estas ideas se acomodan conforme a las manecillas del reloj,  realícenlo en su cuaderno, si alguno lo quiere realizar en hoja blanca no hay problema, lo que no deben olvidar es que se requieren colores o plumones, para que sea llamativo, si no saben dibujar no se preocupen hagan su mayor esfuerzo).\nActividad 3. Subirán a plataforma ambas actividades como evidencia, este trabajo tendrá un valor del 10%.\nActividad  Extra:  en la ultima hoja viene el desglose de la forma de trabajo  sugerida, de esa hoja  espero sus comentario el lunes, no se preocupen no hay que escribirlo, lo  platicamos de acuerdo,  una opción de trabajo seria  que previamente les envié el material, lo leen , retroalimentamos y se trabaja en la actividad.",
+            "fechaLimite": "25/09/2020",
+            "fechaPublicacion": "25-09-2020 08:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1151/show",
+            "tipo": "assignment",
+            "titulo": "Tema: Ciencia"
+        },
+        {
+            "descripcion": "Buen día muchachos las dos actividades para el día de hoy son las siguientes: \nllenar el siguiente formulario:\nhttps://docs.google.com/forms/d/e/1FAIpQLScyV9ClTWZkH5L8CZd_eAomkhrj3_skwLIM1RgWqALK0GbJ2Q/viewform?usp=sf_link\nPosteriormente realizar el cuestionario diagnostico que adjunto, no busquen respuestas en internet, una vez que terminen lo envían por este medio ya sea en imagen o en documento word o pdf, lo pueden realizar en su cuaderno a mano o imprimir lo que sea mas sencillo para ustedes, importante  si es a mano por favor  de utilizar  letra legible.\nSaludos",
+            "fechaLimite": "23/09/2020",
+            "fechaPublicacion": "23-09-2020 09:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/789/show",
+            "tipo": "assignment",
+            "titulo": "Examen diagnostico e formulario de información importante para la materia"
+        },
+        {
+            "descripcion": "Bienvenidos  muchachos 5A TMT al semestre 2020-2021, les envió el siguiente enlace para poder tener una reunión el día de hoy, de acuerdo a nuestro horario,  presentarnos y platicarles de la forma en la que estaremos trabajando. \nhttps://meet.google.com/cdg-zxrr-yha\nAdjunto estará el encuadre para que lo puedan revisar.  \nQue tengan un excelente inicio de semana.\nSaludos y nos vemos en breve.",
+            "fechaLimite": "21/09/2020",
+            "fechaPublicacion": "21-09-2020 07:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/330/show",
+            "tipo": "assignment",
+            "titulo": "Encuadre del semestre"
+        }
+    ],
+    "update": false
+}

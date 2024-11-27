@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "Tutor",
+    "tareas": [
+        {
+            "descripcion": "Ver video en la página de facebook  \"Capacitación preparatorias BC\", que el semestre pasado utilizaron, solicitar ingreso para recuperar el video.\nHacer una construcción de una línea de vida y reflexión sobre 3 momentos que han dejado huella en su personalidad y una breve reflexión qué les deja el tema, que les gustó y si hay algo que no les haya gustado.\nSubir su actividad en el apartado correspondiente para revisión.",
+            "fechaLimite": "02/10/2020",
+            "fechaPublicacion": "28-09-2020 17:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1482/show",
+            "tipo": "assignment",
+            "titulo": "tema ¿Qué son las habilidades para la vida?"
+        }
+    ],
+    "update": false
+}

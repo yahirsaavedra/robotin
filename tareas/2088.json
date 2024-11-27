@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "Planea Habilidad Matemática",
+    "tareas": [
+        {
+            "descripcion": "Descargar el siguiente documento. Si cuentan con impresora pueden imprimir el archivo y hacerlo ahí mismo, si no es así, contestar el examen en el mismo documento y usar hoja blanca, rayada o cuadriculada (de preferencia hoja blanca) para la realización de operaciones y procedimiento. Usar letra legible. Escanear los procedimientos y convertirlo a PDF en un solo archivo. Escribir nombre y apellido en cada hoja a utilizar. Marcar las respuestas. Por último, subirlo a este mismo apartado.\nImportante que las imágenes en PDF sean visibles.\nConvertir el documento de Word a PDF y hacerlo un solo archivo con el PDF de los procedimientos. \nOpción de página para combinar documentos PDF: https://www.ilovepdf.com/es\nLa hora de entrega del documento seria a más tardar el día Viernes 02 de Octubre 2020 a las 7:50PM.\nPor favor de avisar a sus compañeros que no se encuentran todavía en la plataforma y mandarles el archivo del examen.\nGracias.",
+            "fechaLimite": "02/10/2020",
+            "fechaPublicacion": "01-10-2020 13:10",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1929/show",
+            "tipo": "assignment",
+            "titulo": "EXAMEN DIAGNOSTICO"
+        }
+    ],
+    "update": false
+}

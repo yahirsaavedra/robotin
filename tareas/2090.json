@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5B-TMT (MAT)",
+    "materia": "Planea Habilidad Matemática",
+    "tareas": [
+        {
+            "descripcion": "Instrucciones:\n• Descargar el archivo.\n• Realizar el examen en Word, poner solo respuesta en el archivo\n• Utilizar hojas rayadas o cuadriculadas para el procedimiento.\n• Poner nombre y grupo en cada hoja que se utilizó.\n• Escanear los procedimientos y convertirlo en PDF(Ojo que sea legible).\n• Después el archivo del examen que está en Word convertirlo en PDF.\n• Finalmente combinar los PDFs mediante esta página: https://www.ilovepdf.com/es o alguna otra que utilicen.\n• Nombrar archivo(Apellido paterno_Apellido materno_Nombre_E.D._Grupo)\nEjemplo: Vizcarra_Sanchez_LuisEnrique_E.D._5BMeca.",
+            "fechaLimite": "02/10/2020",
+            "fechaPublicacion": "01-10-2020 13:10",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1928/show",
+            "tipo": "assignment",
+            "titulo": "Examen Diagnostico"
+        }
+    ],
+    "update": false
+}

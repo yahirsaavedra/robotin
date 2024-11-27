@@ -1,0 +1,36 @@
+{
+    "error": false,
+    "evento": "tarea",
+    "grupo": "5A-TMT (MAT)",
+    "materia": "PROGRAMA ROBOTS EN SISTEMAS MECATRÓNICOS",
+    "tareas": [
+        {
+            "descripcion": "Elabora un programa que genere tus iniciales con código en python",
+            "fechaLimite": "02/10/2020",
+            "fechaPublicacion": "29-09-2020 10:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/1614/show",
+            "tipo": "assignment",
+            "titulo": "Librería TURTLE"
+        },
+        {
+            "descripcion": "En esta sesión veremos dudas y aclaraciones respecto al ciclo escolar",
+            "fechaLimite": "29/09/2020",
+            "fechaPublicacion": "17-09-2020 23:09",
+            "horario": "9:00 a 10:00",
+            "link": "https://baja.siades.mx/meeting/635b20d5-8744-42d4-9cf0-ed0ae8fd861e/live",
+            "tipo": "videocam",
+            "titulo": "Inicio de Semestre"
+        },
+        {
+            "descripcion": "Elabora un Resumen introductorio sobre el Control Numérico por Computadora.\nRequisitos:\n1. Tres cuartillas mínimo.\n2. Citar las fuentes al final del documento (Mínimo 3 fuentes bibliográficas).\n3. Elaborar documento a Mano y Digitalizarlo en PDF.\n4. Se recomienda agregar información del siguiente enlace como parte de tus referencias bibliográficas de las tres fuentes diferentes requeridas:\nhttps://wiki.ead.pucv.cl/Introducci%C3%B3n_al_control_num%C3%A9rico_computarizado_(CNC)",
+            "fechaLimite": "29/09/2020",
+            "fechaPublicacion": "17-09-2020 19:09",
+            "horario": "",
+            "link": "https://baja.siades.mx/exam/59/show",
+            "tipo": "assignment",
+            "titulo": "Introducción al Control Numérico"
+        }
+    ],
+    "update": false
+}
